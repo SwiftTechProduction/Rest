@@ -1,0 +1,9 @@
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\bin\Debug\Client_CSharp.exe
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\bin\Debug\Client_CSharp.pdb
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.Form1.resources
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.Properties.Resources.resources
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.csproj.GenerateResource.Cache
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.exe
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.pdb
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\bin\Debug\Newtonsoft.Json.dll
+E:\Dokumen\SALATIGA\_DOSEN\Pemrograman Berorientasi Platform\3. Web Services Demo - REST\Client_CSharp\Client_CSharp\obj\x86\Debug\Client_CSharp.csprojResolveAssemblyReference.cache
